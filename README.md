@@ -11,4 +11,11 @@ Data Sets: https://archive.ics.uci.edu/ml/index.php
 - agentes = si quieres modelar un entorno compuesto por diferentes agentes que interactuan entre sí y con su contexto.
 - sistemas expertos = si necesitas desarrollar un sistema de reglas para responder preguntas concretas sobre los datos.
 
+Tribu: [origen] master algorithm.
+Simbolista: [lógica, filosofía] deducción inversa.
+Connecionista: [neurociencia] backpropagation.
+Evolucionista: [biología evolutiva] programación genética.
+Bayesiano: [estadística] inferencia probabilistica.
+Analogizador: [psicología] kernel machines
+
 ![mapa](https://raw.githubusercontent.com/cris-her/AI/master/mapa.jpg)
